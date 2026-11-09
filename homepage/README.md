@@ -2,7 +2,8 @@
 
 A responsive, dark and minimal personal homepage built with React and Vite.
 
-**Live site:** https://YOUR-SITE.vercel.app  <!-- replace with your real URL -->
+**Live site:** https://homepage-tahira.vercel.app/#projects
+
 
 ## Features
 - Semantic HTML: header, nav, main, sections, footer
